@@ -1,8 +1,7 @@
-document.addEventListener('DOMContentLoaded', function(){
-    console.log(Test);
+document.addEventListener("DOMContentLoaded", function () {
+  console.log(Test);
 });
-alert ("Hello World !")
+alert("Hello World !");
 setTimeout(() => {
-    alert(Hello Git!);
-},2000);
-
+  alert("Hello Git!");
+}, 2000);
